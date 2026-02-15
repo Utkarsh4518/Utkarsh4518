@@ -1,70 +1,34 @@
-# Hello, I'm Utkarsh 👋
-
-**M.Sc. Information and Communication Systems**  
-Hamburg University of Technology (TUHH), Germany  
+<h1 align="center">Hello, I'm Utkarsh Maurya</h1>
+<h3 align="center">Master’s Student at Hamburg University of Technology (TUHH), Germany</h3>
 
 ---
 
-## 🔬 About Me
-
-I am a Master's student specializing in **Information and Communication Systems**, with a strong focus on:
-
-- 📊 Data analysis & system modeling  
-- 🧠 Machine Learning for medical imaging  
-- 📡 Communication systems & RF performance evaluation  
-- 🔐 Secure and dependable IT systems  
-
-I enjoy working at the intersection of **analytical modeling, data processing, and real-world system validation**.
+- 📡 I’m currently working on **RF Interference (RFI) modeling and system-level performance analysis** for satellite communication links
+- 📡 I’m currently studying **Information and Communication Systems – specializing in Secure and Dependable IT Systems**  
+- 📊 I work on **Data Analysis, System Modeling & Performance Evaluation**  
+- 🤝 I’m looking to collaborate on **Machine Learning for Medical Imaging** and **Applied Data Analytics Projects**  
+- 📧 My Email: **maurya.utkarsh2000@gmail.com**
 
 ---
 
-## 🚀 Current Work
+## 🌐 Connect with me
 
-- 🧠 Brain Tumor Segmentation (BraTS) using **PyTorch & MONAI**
-- 📈 Building structured ML pipelines for medical image segmentation
-- 📡 RF interference modeling & system-level performance analysis
-- 🛠 Developing reproducible, well-documented research workflows
-
----
-
-## 🤝 Open to Collaborate On
-
-- Machine Learning for Medical Imaging  
-- Applied Data Analytics Projects  
-- System Modeling & Simulation  
-- Secure Software & Research Tooling  
+<p align="left">
+<a href="https://linkedin.com/in/maurya-utkarsh" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Languages and Tools
 
-### Programming & Data
-- Python (Pandas, NumPy, Matplotlib)
-- PyTorch
-- Basic SQL
-- Data cleaning & structured analysis
-
-### Systems & Engineering
-- Communication Systems
-- Link-budget analysis
-- System-level simulation
-- Performance validation
-
-### Tools
-- Git
-- Docker
-- Linux
-- MATLAB
-- LaTeX
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,docker,git,linux,mysql,matlab" />
+</p>
 
 ---
 
-## 📫 Contact
-
-📧 maurya.utkarsh2000@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/maurya-utkarsh)  
-💻 [GitHub](https://github.com/Utkarsh4518)
-
----
-
-_"Structured thinking. Data-driven decisions. Technically grounded execution."_
+<p align="left">
+<img src="https://github.com/Utkarsh4518.png" width="60" />
+</p>
