@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hello, I'm Utkarsh 👋
 
-<!--
-**Utkarsh4518/Utkarsh4518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. Information and Communication Systems**  
+Hamburg University of Technology (TUHH), Germany  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 About Me
+
+I am a Master's student specializing in **Information and Communication Systems**, with a strong focus on:
+
+- 📊 Data analysis & system modeling  
+- 🧠 Machine Learning for medical imaging  
+- 📡 Communication systems & RF performance evaluation  
+- 🔐 Secure and dependable IT systems  
+
+I enjoy working at the intersection of **analytical modeling, data processing, and real-world system validation**.
+
+---
+
+## 🚀 Current Work
+
+- 🧠 Brain Tumor Segmentation (BraTS) using **PyTorch & MONAI**
+- 📈 Building structured ML pipelines for medical image segmentation
+- 📡 RF interference modeling & system-level performance analysis
+- 🛠 Developing reproducible, well-documented research workflows
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Machine Learning for Medical Imaging  
+- Applied Data Analytics Projects  
+- System Modeling & Simulation  
+- Secure Software & Research Tooling  
+
+---
+
+## 🛠 Technical Skills
+
+### Programming & Data
+- Python (Pandas, NumPy, Matplotlib)
+- PyTorch
+- Basic SQL
+- Data cleaning & structured analysis
+
+### Systems & Engineering
+- Communication Systems
+- Link-budget analysis
+- System-level simulation
+- Performance validation
+
+### Tools
+- Git
+- Docker
+- Linux
+- MATLAB
+- LaTeX
+
+---
+
+## 📫 Contact
+
+📧 maurya.utkarsh2000@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/maurya-utkarsh)  
+💻 [GitHub](https://github.com/Utkarsh4518)
+
+---
+
+_"Structured thinking. Data-driven decisions. Technically grounded execution."_
