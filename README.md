@@ -8,7 +8,6 @@
 - 📶 My academic focus includes **communication networks, signal processing, RF systems, and performance modeling**  
 - 📊 I work on **data analysis, simulation-based system evaluation, and analytical modeling**  
 - 🤝 I’m looking to collaborate on **communication system research, RF modeling, and applied data-driven engineering projects**  
-- 📧 My Email: **maurya.utkarsh2000@gmail.com**
 
 
 ---
