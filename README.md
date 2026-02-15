@@ -3,11 +3,13 @@
 
 ---
 
-- 📡 I’m currently working on **RF Interference (RFI) modeling and system-level performance analysis** for satellite communication links
-- 📡 I’m currently studying **Information and Communication Systems – specializing in Secure and Dependable IT Systems**  
-- 📊 I work on **Data Analysis, System Modeling & Performance Evaluation**  
-- 🤝 I’m looking to collaborate on **Machine Learning for Medical Imaging** and **Applied Data Analytics Projects**  
+- 📡 I’m currently working on **RF Interference (RFI) modeling, link-budget analysis, and system-level performance evaluation** for satellite communication systems  
+- 🎓 I’m pursuing a Master’s in **Information and Communication Systems**, specializing in **Secure and Dependable IT Systems**  
+- 📶 My academic focus includes **communication networks, signal processing, RF systems, and performance modeling**  
+- 📊 I work on **data analysis, simulation-based system evaluation, and analytical modeling**  
+- 🤝 I’m looking to collaborate on **communication system research, RF modeling, and applied data-driven engineering projects**  
 - 📧 My Email: **maurya.utkarsh2000@gmail.com**
+
 
 ---
 
