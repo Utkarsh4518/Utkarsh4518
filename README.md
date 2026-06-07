@@ -70,10 +70,3 @@ Industry project with Eppendorf focused on localization algorithms using wireles
 <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utkarsh4518&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh4518&layout=compact&theme=tokyonight)
