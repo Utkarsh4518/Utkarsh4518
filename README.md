@@ -45,9 +45,6 @@ Industry project with Eppendorf: simulation-based indoor localization using Wi-F
 ### [Left<<Shift](https://github.com/Utkarsh4518/LeftShift-----Security-Threat-Modeling)
 LLM-powered threat modeling platform that analyzes architecture descriptions and identifies potential security risks.
 
-### [SpaceShield](https://github.com/Utkarsh4518/SpaceShield)
-*(add a one-line description of what this project does)*
-
 ### Synapse
 AI-powered collaboration platform connecting business and engineering teams through GitHub, Jira, contextual AI chat, and intelligent requirement translation.
 *(link this if it has a public repo)*
@@ -73,15 +70,6 @@ AI-powered collaboration platform connecting business and engineering teams thro
 <img src="https://img.shields.io/badge/FastAPI-AI%20Backend-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-Frontend-black?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh4518&show_icons=true&theme=default&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh4518&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
