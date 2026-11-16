@@ -84,6 +84,9 @@ LLM-powered threat modeling platform that analyzes architecture descriptions and
 ### 🔗 Synapse
 AI-powered collaboration platform connecting business and engineering teams through GitHub, Jira, contextual AI chat and requirement translation.
 
+<a href="https://synapse-spicestrat.lovable.app"><img src="https://img.shields.io/badge/▶_Try_it-Live_demo-7C3AED?style=flat-square" alt="Live demo" /></a>
+<a href="https://github.com/Utkarsh4518/FinanzInformatik--AI-x-Business-x-Tech--Spice-Strat"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code" /></a>
+
 </td>
 <td width="50%" valign="top">
 
