@@ -49,6 +49,9 @@ LLM-powered threat modeling platform that analyzes architecture descriptions and
 AI-powered collaboration platform connecting business and engineering teams through GitHub, Jira, contextual AI chat, and intelligent requirement translation.
 *(link this if it has a public repo)*
 
+### [BusyBot](https://busybot.lovable.app)
+AI-native back office for a technical management school: a front-desk agent splits incoming requests and routes them between departments of cooperating agents, and every case ends in a decision package for staff.
+
 ---
 
 ## Languages & Tools
