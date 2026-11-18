@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://utkarsh4518.github.io/UtkarshWeb/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=560&lines=Satellite+Communications;Wireless+Networks+%26+Localization;AI+Agents+%26+LLM+Applications" alt="Satellite Communications · Wireless Networks & Localization · AI Agents & LLM Applications" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=560&lines=Building+something+useful+and+fun" alt="Building something useful and fun" />
   </a>
 </p>
 
