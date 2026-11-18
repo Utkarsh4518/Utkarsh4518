@@ -74,6 +74,7 @@ Industry project with Eppendorf: indoor localization with Wi-Fi and BLE, evaluat
 ### 🛡️ Left&lt;&lt;Shift
 LLM-powered threat modeling platform that analyzes architecture descriptions and identifies potential security risks.
 
+<a href="https://leftshift.lovable.app"><img src="https://img.shields.io/badge/▶_Try_it-Live_demo-7C3AED?style=flat-square" alt="Live demo" /></a>
 <a href="https://github.com/Utkarsh4518/LeftShift-----Security-Threat-Modeling"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code" /></a>
 
 </td>
