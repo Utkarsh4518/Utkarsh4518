@@ -104,23 +104,60 @@ Drone detection on a Raspberry Pi, MAC protocols for intra-satellite optical lin
 
 ## Languages & Tools
 
-**Comms Engineering & Simulation**
+**Languages & Everyday Tools**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,matlab,docker,git,linux,mysql,vscode" />
+</p>
+
+**Comms Engineering & Simulation** · *RF interference, localization, MAC protocols*
 <p align="left">
 <img src="https://img.shields.io/badge/MATLAB-Simulink-orange?style=flat-square&logo=mathworks&logoColor=white" />
 <img src="https://img.shields.io/badge/OMNeT++-Simulation-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/ITU--R-Models-2E86AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Link_Budget-Analysis-2E86AB?style=flat-square" />
+<img src="https://img.shields.io/badge/RSSI_·_ToF_·_UWB-Localization-2E86AB?style=flat-square" />
 </p>
 
-**Programming**
+**Data & Visualization** · *simulators and studies*
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,docker,git,linux,mysql,vscode" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
-**AI / Web**
+**AI & Agents** · *BusyBot, Left&lt;&lt;Shift, Synapse*
 <p align="left">
-<img src="https://img.shields.io/badge/FastAPI-AI%20Backend-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-Frontend-black?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-Multi--agent-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+</p>
+
+**Web & Backend** · *the apps and live demos*
+<p align="left">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_&_Jira_APIs-0052CC?style=flat-square&logo=jira&logoColor=white" />
+</p>
+
+**Deploy & Hardware** · *hosting and AstraVigil*
+<p align="left">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Lovable-FF4F8B?style=flat-square" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/3D_Printing-trimesh-555555?style=flat-square" />
 </p>
 
 ---
